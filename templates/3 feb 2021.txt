@@ -1,0 +1,5 @@
+password:love@1234	port:5434
+  password:1234set master password :love@1234
+postgresql/11/pgadmin4/bin/docs/en_US/html/
+
+ admin password is forget again create superuser
